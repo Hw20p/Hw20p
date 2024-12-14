@@ -8,25 +8,24 @@
 
 ### 🔧 Tools & Technologies
 
-- 🖥️ **Languages**: Python, JavaScript, C++
-- 🛠️ **Frameworks**: Django, React, Node.js
-- 📚 **Libraries**: NumPy, Pandas, TensorFlow
+- 🖥️ **Languages**: Java, C, Python
+- 🛠️ **Frameworks**: SpringBoot, TensorFlow, PyTorch, React
+- 📚 **Libraries**: Spring Data JPA, MySQL, MongoDB, AWS, Axios
 - 🛠️ **Tools**: Git, Docker, VS Code
 
 ---
 
 ### ✨ 프로젝트
 
-- **[프로젝트 이름](링크)**: 프로젝트 설명
-- **[프로젝트 이름](링크)**: 프로젝트 설명
+- **[AiCodeReview](https://github.com/Hw20p/AiCodeReview)**: Ai 코드 채점기
+- **[Connect Hub](https://github.com/Hw20p/ConnectHub)**: 시각장애인을 위한 커뮤니티 사이트
 
 ---
 
 ### 📫 연락하기
 
-- 📧 **이메일**: example@example.com
-- 🐦 **Twitter**: [@username](https://twitter.com/username)
-- 🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)
+- 📧 **이메일**: dlgusdn0129@naver.com
+- 🌐 **Portfolio**: [포트폴리오](https://www.notion.so/15b00bc8afbc80959b14ebd9811282f5)
 
 ---
 
