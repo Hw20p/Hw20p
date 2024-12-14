@@ -22,10 +22,10 @@
 
 ---
 
-### 📫 연락하기
+### 📫 내 정보
 
 - 📧 **이메일**: dlgusdn0129@naver.com
-- 🌐 **Portfolio**: [포트폴리오](https://www.notion.so/15b00bc8afbc80959b14ebd9811282f5)
+- 🌐 **Portfolio**: [이현우](https://www.notion.so/15b00bc8afbc80959b14ebd9811282f5)
 
 ---
 
