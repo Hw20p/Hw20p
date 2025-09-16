@@ -17,6 +17,7 @@
 
 ### ✨ 프로젝트
 
+- **[Code Quest](https://github.com/Hw20p/CodeQuest)**: AI 클린코드 학습 플랫폼
 - **[AiCodeReview](https://github.com/Hw20p/AiCodeReview)**: Ai 코드 채점기
 - **[Connect Hub](https://github.com/Hw20p/ConnectHub)**: 시각장애인을 위한 커뮤니티 사이트
 
